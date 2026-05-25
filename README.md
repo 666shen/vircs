@@ -4,9 +4,9 @@
 
 Vircs 推出的 美国 AT&T 真住宅家宽（Residential VPS） 在圈内大爆。它号称提供的是 100% 纯正的家庭宽带，而非市面上那种伪装的 ISP。vircs官网，通过链接下单，https://www.vircs.com/welcome?vcd=f4b8e04f 直接享受95折永久循环折扣。
 
-收藏：
-家宽VPS实时监控网：https://oping.de
-线路VPS实施监控网：https://vpsing.de
+收藏：搬瓦工、Dmit等VPS实时监控网：https://vpsing.de
+ 家宽VPS实时监控网：https://oping.de
+
 <img width="1200" height="535" alt="image" src="https://github.com/user-attachments/assets/4288ac1b-0005-49cd-8c4b-88061c06a905" />
 
 ### 一、 核心卖点：
