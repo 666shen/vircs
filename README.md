@@ -1,4 +1,4 @@
-# 美国AT&T家宽 VIRCS（95折优惠码）：AT&T 真家宽 VPS 深度测评——解锁 TikTok/AI/银行
+# 美国ATT家宽 VIRCS（95折优惠码）：AT&T 真家宽 VPS 深度测评——解锁 TikTok/AI/银行
 
 在跨境圈，大家都知道“线路易得，纯净 IP 难求”。普通的机房 IP（Data Center IP）早已被风控系统拉黑，注册秒封、发帖 0 播放、甚至连美区官网都进不去。
 
